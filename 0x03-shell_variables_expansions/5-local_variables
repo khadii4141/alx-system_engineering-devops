@@ -1,2 +1,2 @@
 #!/bin/bash
-alias LIST="set ;env ;declare -f"
+set
