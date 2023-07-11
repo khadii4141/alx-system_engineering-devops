@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {aa..zz} | grep -v "oo" | wc -c
+echo {aa..zz} | grep -v "oo" 
